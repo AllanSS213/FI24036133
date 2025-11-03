@@ -1,4 +1,4 @@
-#PP1 Allan David Soto Suárez. Carné: FI24036133
+#PP3 Allan David Soto Suárez. Carné: FI24036133
 ## _Práctica programada 3_
 
 Programa capaz de trabajar con una lista circular doblemente enlazada usando nodos con valores naturales entre cero y nueve, creados aleatoriamente.

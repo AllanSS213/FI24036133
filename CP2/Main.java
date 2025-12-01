@@ -4,7 +4,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
-
+// fuentes utilizadas: 
+// https://www.geeksforgeeks.org/dsa/queue-linked-list-implementation/
+// https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/
+// https://www.baeldung.com/java-binary-tree#inserting-elements
+// https://www.geeksforgeeks.org/dsa/graph-and-its-representations/
+    
     public static void main(String[] args) throws Exception {
 
         var input = Files.readString(Path.of("input.txt"));
@@ -55,3 +60,4 @@ public class Main {
         Files.writeString(Path.of("matrix.csv"), graph.getMatrix());
     }
 }
+
